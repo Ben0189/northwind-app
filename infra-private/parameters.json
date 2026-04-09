@@ -1,0 +1,6 @@
+{
+  "resourceGroup": "rg-northwind-private-test",
+  "environment": "test",
+  "appName": "app-northwind-private-test",
+  "infraFolder": "infra-private"
+}

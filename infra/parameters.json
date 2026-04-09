@@ -1,0 +1,6 @@
+{
+  "resourceGroup": "rg-northwind-test",
+  "environment": "test",
+  "appName": "app-northwind-test",
+  "infraFolder": "infra"
+}
