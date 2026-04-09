@@ -185,6 +185,7 @@ DocProject/Help/html
 # Click-Once directory
 publish/
 app.zip
+appsettings.Development.json
 
 # Publish Web Output
 *.[Pp]ublish.xml
